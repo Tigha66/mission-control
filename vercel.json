@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "mission-control",
+  "buildCommand": "pnpm build",
+  "devCommand": "pnpm dev",
+  "installCommand": "pnpm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next"
+}
